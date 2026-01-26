@@ -5,6 +5,11 @@ The trained ML models are deployed using Streamlit to provide an interactive web
 
 ---
 
+## Live Link 
+https://loan-approval-prediction-ml-app.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - Predicts loan approval using Machine Learning
